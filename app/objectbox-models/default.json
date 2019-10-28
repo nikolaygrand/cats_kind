@@ -1,0 +1,174 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8026716962950998584",
+      "lastPropertyId": "37:1149898071649512051",
+      "name": "CatsBreads",
+      "properties": [
+        {
+          "id": "1:4071077506683479157",
+          "name": "iid"
+        },
+        {
+          "id": "2:1556158686244757480",
+          "name": "adaptability"
+        },
+        {
+          "id": "3:9167984560261274510",
+          "name": "affection_level"
+        },
+        {
+          "id": "4:1183108627268553659",
+          "name": "alt_names"
+        },
+        {
+          "id": "5:6785607399758677584",
+          "name": "cfa_url"
+        },
+        {
+          "id": "6:1721183980403605908",
+          "name": "child_friendly"
+        },
+        {
+          "id": "7:4864657606857699202",
+          "name": "country_code"
+        },
+        {
+          "id": "8:4523140137572322579",
+          "name": "country_codes"
+        },
+        {
+          "id": "9:9199907482960819682",
+          "name": "description"
+        },
+        {
+          "id": "10:3616988420711966276",
+          "name": "dog_friendly"
+        },
+        {
+          "id": "11:3445663117004428363",
+          "name": "energy_level"
+        },
+        {
+          "id": "12:6884357383761838741",
+          "name": "experimental"
+        },
+        {
+          "id": "13:3479278586939785557",
+          "name": "grooming"
+        },
+        {
+          "id": "14:5487867834821806582",
+          "name": "hairless"
+        },
+        {
+          "id": "15:4422263570907940309",
+          "name": "health_issues"
+        },
+        {
+          "id": "16:6883315288401139824",
+          "name": "hypoallergenic"
+        },
+        {
+          "id": "17:7693888182434328310",
+          "name": "id"
+        },
+        {
+          "id": "18:4902821559582524248",
+          "name": "indoor"
+        },
+        {
+          "id": "19:1430376580913432342",
+          "name": "intelligence"
+        },
+        {
+          "id": "20:1230356476981925204",
+          "name": "lap"
+        },
+        {
+          "id": "21:5316160344144826151",
+          "name": "life_span"
+        },
+        {
+          "id": "22:8419171337239827137",
+          "name": "name"
+        },
+        {
+          "id": "23:2954976067864599759",
+          "name": "natural"
+        },
+        {
+          "id": "24:6111570738884558930",
+          "name": "origin"
+        },
+        {
+          "id": "25:3879166969673780423",
+          "name": "rare"
+        },
+        {
+          "id": "26:3592931974828239631",
+          "name": "rex"
+        },
+        {
+          "id": "27:1766388909904533265",
+          "name": "shedding_level"
+        },
+        {
+          "id": "28:8686076378430889096",
+          "name": "short_legs"
+        },
+        {
+          "id": "29:2321121406021692755",
+          "name": "social_needs"
+        },
+        {
+          "id": "30:7460415504846996156",
+          "name": "stranger_friendly"
+        },
+        {
+          "id": "31:1573386802918635583",
+          "name": "suppressed_tail"
+        },
+        {
+          "id": "32:4567090946434409978",
+          "name": "temperament"
+        },
+        {
+          "id": "33:1390973706361975542",
+          "name": "vcahospitals_url"
+        },
+        {
+          "id": "34:1269431952073341073",
+          "name": "vetstreet_url"
+        },
+        {
+          "id": "35:6717073015284604366",
+          "name": "vocalisation"
+        },
+        {
+          "id": "36:100658137292032012",
+          "name": "weight"
+        },
+        {
+          "id": "37:1149898071649512051",
+          "name": "wikipedia_url"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:8026716962950998584",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
